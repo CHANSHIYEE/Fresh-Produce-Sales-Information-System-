@@ -1,0 +1,26 @@
+h1,h2,h3,h4,p,ul,li {
+    margin: 0;
+    padding: 0;
+    text-decoration-color: black;
+}
+ul {
+    list-style: none;
+    text-decoration-color: black;
+    font-size: large;
+}
+a {
+    /* 下划线 */
+    text-decoration: none; 
+    text-decoration-color: black;
+}
+img {
+    /* 垂直方向居中 */
+    vertical-align: middle;
+    text-decoration-color: black;
+}
+body {
+    font-size: 14px;
+    font-family:"iconfont", sans-serif;
+    text-decoration-color: black;
+    color:black
+}
